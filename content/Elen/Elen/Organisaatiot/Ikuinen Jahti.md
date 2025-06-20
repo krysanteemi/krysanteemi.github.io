@@ -1,0 +1,4 @@
+---
+banner: "https://i.imgur.com/J4mRznI.jpeg"
+---
+Ikuinen jahti on ympäri Eleniä toimiva metsästyskilta. Sen päätehtävä on paikkailla Arkkimagistraatin jättämiä aukkoja — syrjäseudut ovat edelleen pullollaan hirviöitä ja maantievarkaita, eikä apua näytä olevan saatavilla muualta. Jahti aloitti toimintansa muutama kymmenen vuotta Arkkimagistraatin perustamisen jälkeen. Maaseutulaiset huomasivat apua olevan tarjolla herkemmin niille, joiden luokse kulkeminen oli jo valmiiksi helppoa. Lopulta he perustivat oman ratkaisunsa ongelmaan Ikuisen jahdin muodossa. Jahdin jäsenet käyttävät suurimman osan ajastaan hirviöitä metsästäen ja pieniä syrjäkyliä suojellen. Osa heistä on järjestäytynyt vartijakaartien tavoin, kun taas osa toimii yksinäisinä susina omaa kotia suojellen. Jahdin jäsenen tunnistaa hänelle ominaisesta vihreästä viitasta, jonka solki on korvattu jäsenen ensimmäisen saaliin hampaalla.

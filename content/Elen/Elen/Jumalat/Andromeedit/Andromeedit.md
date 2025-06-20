@@ -1,0 +1,1 @@
+Andromeedit ovat neljä mustaa haltiaa, jotka vanhempiensa kuoleman jälkeen hyödynsivät taitojaan magiassa ja loivat oman noitapiirinsä. He ajoivat unohtuneet jumalat kosmisen meren pohjaan.

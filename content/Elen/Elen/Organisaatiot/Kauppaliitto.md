@@ -1,0 +1,4 @@
+---
+banner: "https://i.imgur.com/d3bDdHk.jpeg"
+---
+Dmidievin kauppaliitto perustettiin Dmidievin synnyn yhteydessä. Resurssit alkoivat käydä vähiin ja niiden huolehtimisesta päättivät kantaa vastuun viisi suurinta kääpiöperhettä: Tyvigg, Dulgrom, Bronos, Ingras ja Thul. Varallisuuden ei haluttu jakautuvan turhan leveästi, ja kauppaliitto huolehtii siitä, että raha ei karkaa käsiin, jotka sitä eivät ansaitse. Kauppaliitto on poliittinen järjestelmä, jossa valta jakautuu varallisimmille. Valtaannousu on siis sijoituksen päässä, eikä esimerkiksi syntyperästä kiinni. Tuloerot ovat suuret, mutta muutamat harvat elättelevät toivoa tuhkimotarinasta, joka päättyy kallion laidalla olevan kartanon omistamiseen.
